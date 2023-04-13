@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-useful html,css, javascript scripts 
+Useful html,css, javascript scripts 
